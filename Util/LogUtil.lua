@@ -1,4 +1,8 @@
 function cclog(...)
+    --print(string.format(...))
+end
+
+function cclogNew(...)
     print(string.format(...))
 end
 
